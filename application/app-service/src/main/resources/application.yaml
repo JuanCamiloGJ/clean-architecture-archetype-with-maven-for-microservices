@@ -1,0 +1,22 @@
+server:
+  port: 8090
+  shutdown: graceful
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: "ms-template"
+  lifecycle:
+    timeout-per-shutdown-phase: 30s
+
+management:
+  endpoint:
+    health:
+      show-details: always
+      probes:
+        enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: health
