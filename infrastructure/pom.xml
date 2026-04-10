@@ -4,7 +4,7 @@
   <parent>
     <groupId>io.github.juancamilogj</groupId>
     <artifactId>archetype-clean-architecture</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </parent>
 
   <artifactId>infrastructure</artifactId>
