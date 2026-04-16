@@ -1,5 +1,12 @@
 # ms-template-clean-architecture
 
+## 🚀 ¿Qué problema resuelve esto?
+
+Este arquetipo reduce el tiempo de configuración de microservicios de horas a minutos gracias a:
+- Estructura de arquitectura limpia
+- Controles de calidad preconfigurados
+- Configuración de Docker lista para usar
+
 Template base multi-módulo inspirado en Clean Architecture para proyectos Java 17 + Spring Boot + Maven.
 
 ## Estructura (módulos)
