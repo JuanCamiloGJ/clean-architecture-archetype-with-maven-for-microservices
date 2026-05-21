@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/application/usecase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/infrastructure/driven-adapters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/infrastructure/entry-points/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/application/usecase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/infrastructure/driven-adapters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/infrastructure/entry-points/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/application/usecase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/infrastructure/driven-adapters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/infrastructure/entry-points/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../JuanCamiloGJ/pruebas arquetipo/mi-microservicio2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/app-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/app-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/usecase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/usecase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapters/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/entry-points/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/entry-points/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

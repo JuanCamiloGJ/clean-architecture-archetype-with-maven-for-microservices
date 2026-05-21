@@ -2,7 +2,7 @@ FROM alpine:latest
 
 # Define JAVA VERSION
 ARG VJAVA
-ENV VJAVA=17
+ENV VJAVA=21
 
 # Default Settings (Time ZONE)
 ARG TZ

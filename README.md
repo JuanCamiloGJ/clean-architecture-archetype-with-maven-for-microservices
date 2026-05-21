@@ -69,6 +69,25 @@ Luego podrás usarlo con `-DarchetypeCatalog=local` en el comando de generación
     -DinteractiveMode=false
 ```
 
+### Publicar a Maven Central (flujo local, sin CI)
+
+Este flujo lo ejecuta el mantenedor del arquetipo en su máquina.
+
+```bash
+cd "D:/PYT/Development/API Homebanking/API Homebanking Gen/clean-architecture-archetype-with-maven-for-microservices"
+bash scripts/build-archetype-ready.sh
+
+cd "target/generated-sources/archetype"
+mvn -s "C:/Users/PYT09/.m2/settings-central.xml" -DskipTests clean deploy
+```
+
+Si usas passphrase en GPG para deploy batch:
+
+```bash
+export MAVEN_GPG_PASSPHRASE="TU_PASS_REAL"
+mvn -s "C:/Users/PYT09/.m2/settings-central.xml" -DskipTests clean deploy
+```
+
 
 ### Build + tests
 ```bash
@@ -106,3 +125,7 @@ docker run --rm -p 8793:8793 ms-template:local
 ## Quality gates incluidos (arquetipo)
 - Enforcer: valida versión mínima de Maven/Java y convergencia de dependencias.
 - Spotless: formato Java y orden de POMs.
+
+
+
+
