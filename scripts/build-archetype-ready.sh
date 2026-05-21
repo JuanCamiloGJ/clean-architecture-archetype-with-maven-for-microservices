@@ -15,7 +15,7 @@ if [ ! -f "$META_FILE" ]; then
 fi
 
 # El proyecto generado por el archetype no debe incluir utilidades internas ni metadatos del IDE.
-rm -rf "$RES_DIR/scripts" "$RES_DIR/.idea"
+rm -rf "$RES_DIR/scripts" "$RES_DIR/.idea" "$RES_DIR/publicar-archetype-maven-central.md"
 
 # Mantiene el descriptor generado por Maven y solo añade rootArtifactId.
 if ! grep -q 'key="rootArtifactId"' "$META_FILE"; then
