@@ -125,6 +125,11 @@ Agregar:
         <autoPublish>true</autoPublish>
       </configuration>
     </plugin>
+      <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-archetype-plugin</artifactId>
+          <version>3.4.1</version>
+      </plugin>
 
   </plugins>
 
